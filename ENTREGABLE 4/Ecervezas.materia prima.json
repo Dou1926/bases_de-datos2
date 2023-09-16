@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d0"
+  },
+  "nombre": "malta pale",
+  "detalle": "cerveza ales",
+  "cantidad": "100000 gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d1"
+  },
+  "nombre": "malta cristal",
+  "detalle": "cerveza ales",
+  "cantidad": "100000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d2"
+  },
+  "nombre": "lupulo",
+  "detalle": "cerveza ales",
+  "cantidad": "10000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d3"
+  },
+  "nombre": "lupulo gold",
+  "detalle": "cerveza ales",
+  "cantidad": "10000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d4"
+  },
+  "nombre": "malta viena",
+  "detalle": "cerveza lager",
+  "cantidad": "100000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d5"
+  },
+  "nombre": "malta munich",
+  "detalle": "cerveza lager",
+  "cantidad": "100000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d6"
+  },
+  "nombre": "malta carapils",
+  "detalle": "cerveza lager - hibrida",
+  "cantidad": "100000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d7"
+  },
+  "nombre": "lupulo perle",
+  "detalle": "cerveza lager",
+  "cantidad": "10000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d8"
+  },
+  "nombre": "malta pilsner",
+  "detalle": "cerveza hibrida",
+  "cantidad": "100000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81d9"
+  },
+  "nombre": "lupulo pal",
+  "detalle": "cerveza hibrida",
+  "cantidad": "10000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81da"
+  },
+  "nombre": "lupulo tettnang",
+  "detalle": "cerveza hibrida",
+  "cantidad": "10000gr"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81db"
+  },
+  "nombre": "agua",
+  "detalle": "cerveza ales - lager - hibrida",
+  "cantidad": "1000lt"
+},
+{
+  "_id": {
+    "$oid": "6505147e2b026bb31c6d81dc"
+  },
+  "nombre": "levadura",
+  "detalle": "cerveza ales - lager - hibrida",
+  "cantidad": "10000gr"
+}]

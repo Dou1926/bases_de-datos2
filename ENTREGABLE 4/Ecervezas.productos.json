@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6505159b2b026bb31c6d81e3"
+  },
+  "nombre": "ales",
+  "malta pale": "5400gr",
+  "malta cristal": "95gr",
+  "lupulo challenger": "35gr",
+  "lupulo gol": "41gr",
+  "levadura": "200gr",
+  "agua": "40lt"
+},
+{
+  "_id": {
+    "$oid": "6505159b2b026bb31c6d81e4"
+  },
+  "nombre": "lager",
+  "malta viena": "4000gr",
+  "malta munich": "800gr",
+  "malta carapils": "750gr",
+  "malta cristal": "100gr",
+  "lupulo perle": "27gr",
+  "lupulo golding": "50gr",
+  "levadura": "200gr",
+  "agua": "40lt"
+},
+{
+  "_id": {
+    "$oid": "6505159b2b026bb31c6d81e5"
+  },
+  "nombre": "hibrida",
+  "malta pilsner": "4000gr",
+  "malta carapils": "500gr",
+  "lupulo spal": "44gr",
+  "lupulo tettnang": "66gr",
+  "levadura": "200gr",
+  "agua": "40lt"
+}]

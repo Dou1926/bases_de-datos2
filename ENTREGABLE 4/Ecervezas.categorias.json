@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "650513522b026bb31c6d81c6"
+  },
+  "nombre": "lagers",
+  "detalle": "Fermentacion de  6 meses",
+  "precio": "12.5"
+},
+{
+  "_id": {
+    "$oid": "650513522b026bb31c6d81c7"
+  },
+  "nombre": "ales",
+  "detalle": "Fermentacion 7 dias",
+  "precio": "10.0"
+},
+{
+  "_id": {
+    "$oid": "650513522b026bb31c6d81c8"
+  },
+  "nombre": "hibrida",
+  "detalle": "Fermentacion Expontanea",
+  "precio": "11.2"
+}]

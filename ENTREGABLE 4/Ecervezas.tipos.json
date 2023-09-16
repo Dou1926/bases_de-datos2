@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81e8"
+  },
+  "nombre": "dark"
+},
+{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81e9"
+  },
+  "nombre": "pales"
+},
+{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81ea"
+  },
+  "nombre": "bocks"
+},
+{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81eb"
+  },
+  "nombre": "stouts"
+},
+{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81ec"
+  },
+  "nombre": "porters"
+},
+{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81ed"
+  },
+  "nombre": "belgians"
+},
+{
+  "_id": {
+    "$oid": "650515e62b026bb31c6d81ee"
+  },
+  "nombre": "sours"
+}]
